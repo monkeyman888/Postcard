@@ -13,6 +13,8 @@
 		697D4E0F1B0B5F9500A8F31C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 697D4E0E1B0B5F9500A8F31C /* Images.xcassets */; };
 		697D4E121B0B5F9500A8F31C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 697D4E101B0B5F9500A8F31C /* LaunchScreen.xib */; };
 		697D4E1E1B0B5F9500A8F31C /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697D4E1D1B0B5F9500A8F31C /* PostcardTests.swift */; };
+		697D4E281B0B6F9100A8F31C /* slider_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 697D4E271B0B6F9100A8F31C /* slider_1.jpg */; };
+		697D4E2A1B0B744900A8F31C /* unnamed.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 697D4E291B0B744900A8F31C /* unnamed.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		697D4E171B0B5F9500A8F31C /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		697D4E1C1B0B5F9500A8F31C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		697D4E1D1B0B5F9500A8F31C /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		697D4E271B0B6F9100A8F31C /* slider_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slider_1.jpg; sourceTree = "<group>"; };
+		697D4E291B0B744900A8F31C /* unnamed.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = unnamed.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		697D4E051B0B5F9500A8F31C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				697D4E291B0B744900A8F31C /* unnamed.jpg */,
+				697D4E271B0B6F9100A8F31C /* slider_1.jpg */,
 				697D4E061B0B5F9500A8F31C /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				697D4E0D1B0B5F9500A8F31C /* Main.storyboard in Resources */,
 				697D4E121B0B5F9500A8F31C /* LaunchScreen.xib in Resources */,
+				697D4E281B0B6F9100A8F31C /* slider_1.jpg in Resources */,
+				697D4E2A1B0B744900A8F31C /* unnamed.jpg in Resources */,
 				697D4E0F1B0B5F9500A8F31C /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
